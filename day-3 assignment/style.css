@@ -1,0 +1,29 @@
+#main-blk{
+    height: 200px;
+    width: 150px;
+    padding-top: 40px;
+    padding-left: 4%;
+    padding-right: 4%;
+    background-color: rgb(141, 112, 221);
+}
+
+
+.inp{
+    border:2px solid rgb(40, 20, 97);
+    border-radius:7px;
+    margin:0px 20px 20px 5px;
+
+}
+
+#btn{
+    margin-left: 50px;
+}
+
+#blk{
+    height: 200px;
+    width: 150px;
+    padding-top: 40px;
+    padding-left: 4%;
+    padding-right: 4%;
+    background-color: rgb(173, 163, 201);
+}
